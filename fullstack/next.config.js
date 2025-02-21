@@ -2,7 +2,6 @@
 const nextConfig = {
   images: {
     domains: ["ui.aceternity.com"],
-    output: "export",
   },
 };
 
